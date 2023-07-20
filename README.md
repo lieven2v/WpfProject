@@ -1028,7 +1028,7 @@ WPF consists of two main parts: the engine and the programming framework.
 1 engine. The WPF engine provides a single runtime library for applications based on forms, graphics, video, audio and documents. Importantly, WPF's vector-based rendering engine gives applications the flexibility to take advantage of high-DPI monitors, supporting hardware acceleration of graphics.
 
 2 frames. The WPF framework provides numerous solutions for media user interface design and documentation. WPF is designed with extensibility in mind, so that developers can create their own controls entirely on the basis of the WPF engine, or create their own controls by reclassifying existing WPF controls.
-### **2.什么是WPF？**
+### **2. What is WPF? **
 
 The full name of WPF in English is Windows Presentation Foundation, and is the foundation of Windows presentation layer. It is a graphics platform originally launched by Microsoft on the .NET Framework3.5 platform.
 
