@@ -1090,7 +1090,7 @@ General attributes are not so complicated
 
 (3) It can store multiple values, and cooperate with Expression and Animation to create a more flexible usage method.
 
-### **8. WPF中什么是样式？**
+### **8. What is style in WPF? **
 
 First of all, understand that styles in WPF are an important type of resources.
 
@@ -1273,7 +1273,7 @@ Value: Gets or sets the value Setter to apply to the specified property.
 
 The following code specifies the use of attribute triggers, because attribute triggers are generally used in style definitions.
 
-​ ![0](https://note.youdao.com/yws/res/d/WEBRESOURCEa1826240762bf6d88f0d0963734953cd)
+
 
 ```xaml
 <Button Content="Trigger" x:Name="btn1" Click="Button_Click">
